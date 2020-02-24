@@ -7,7 +7,7 @@ Initial Function()
 
 feaature2()
 {
-  //Sample Code for Feature 2
+  Security code for feature 2
 }
 
 
